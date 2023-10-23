@@ -1,0 +1,15 @@
+{
+  "name": "sequelize---practice",
+  "version": "1.0.0",
+  "description": "sequelize is an ORM (Object Relational Mapper) is a promise based nodejs ORM.\r ORM is a technique to write database queries in Object oriented way in any programming language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.6.2",
+    "sequelize": "^6.33.0"
+  }
+}
